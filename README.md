@@ -19,7 +19,7 @@ Please and Thank You! -Azresash
   </p>
 
   <p align="center">
--ˋˏ ༻❁༺ ˎˊ-  
+- ༻❁༺ -
  </p> 
 
   <p align="center">
