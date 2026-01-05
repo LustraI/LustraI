@@ -26,7 +26,7 @@ Please and Thank You! -Azresash
   <a href= "https://github.com/azresash"> Main Github </a>
     
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-LustraI&label=Collected Souls&color=913a7e&style=plastic&abbreviated=true&base=7,800">
+  <img src="https://komarev.com/ghpvc/?username=your-github-LustraI&label=Collected Souls&color=913a7e&style=plastic&abbreviated=true&base=7.8k">
 </p>
 
   <p align="center">
