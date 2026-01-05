@@ -17,3 +17,19 @@ Inform me on my strawpage on my main github with the github username so i know W
   <p align="center">
 Please and Thank You! -Azresash
   </p>
+
+  <p align="center">
+-ˋˏ ༻❁༺ ˎˊ-
+ </p> 
+
+  <p align="center">
+  <a href= "https://github.com/azresash"> Main Github </a> ゛
+
+
+  <p align="center">
+  <img width="400" height="500" src="https://i.pinimg.com/736x/b2/9e/6e/b29e6e3b8c8bfb0c3d7c1a53c36f9f30.jpg">
+</p>
+
+  <p align="center">
+Art credits belong to 1x1x1x1_yuki on Pinterest
+  </p>
