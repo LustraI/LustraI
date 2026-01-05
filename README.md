@@ -1,16 +1,19 @@
-## Hi there 👋
+  <p align="center">
+Salutations!
+  </p>
 
-<!--
-**LustraI/LustraI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p align="center">
+I am Rot / Crush! This is my spam follow account.
+  </p>
+  
+  <p align="center">
+Please let me know if anyone I am following is basically someone not so good.
+  </p>
 
-Here are some ideas to get you started:
+  <p align="center">
+Inform me on my strawpage on my main github with the github username so i know WHO to unfollow
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+Please and Thank You! -Azresash
+  </p>
