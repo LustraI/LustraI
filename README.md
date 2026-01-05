@@ -23,7 +23,7 @@ Please and Thank You! -Azresash
  </p> 
 
   <p align="center">
-  <a href= "https://github.com/azresash"> Main Github </a> ゛
+  <a href= "https://github.com/azresash"> Main Github </a>
 
 
   <p align="center">
