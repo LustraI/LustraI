@@ -30,9 +30,9 @@ Please and Thank You! -Azresash
 </p>
 
   <p align="center">
-  <img width="400" height="500" src="https://i.pinimg.com/736x/b2/9e/6e/b29e6e3b8c8bfb0c3d7c1a53c36f9f30.jpg">
+  <img width="400" height="500" src="https://i.pinimg.com/1200x/9f/5f/5b/9f5f5b0c8be8efbb87e1864f7053352b.jpg">
 </p>
 
   <p align="center">
-Art credits belong to 1x1x1x1_yuki on Pinterest
+Art credits belong to intestinepls on Pinterest
   </p>
