@@ -26,13 +26,13 @@ Please and Thank You! -Azresash
   <a href= "https://github.com/azresash"> Main Github </a>
     
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-LustraI&label=Keys&color=913a7e&style=plastic&abbreviated=true&base=7800">
+  <img src="https://komarev.com/ghpvc/?username=your-github-LustraI&label=Drones&color=9c763f&style=plastic&abbreviated=true&base=7800">
 </p>
 
   <p align="center">
-  <img width="400" height="500" src="https://i.pinimg.com/1200x/9f/5f/5b/9f5f5b0c8be8efbb87e1864f7053352b.jpg">
+  <img width="400" height="500" src="https://64.media.tumblr.com/66a9ecdde60aed42f01823159aa5225c/39b15995fcab1fe9-56/s250x400/3fe32a1601419d6fc5312541ee45fc3f768b97e3.pnj">
 </p>
 
   <p align="center">
-Art credits belong to intestinepls on Pinterest
+Pfp creds - refresko on twitter . graphics cred - fleshprisonz on tumblr
   </p>
