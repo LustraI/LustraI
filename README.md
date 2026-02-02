@@ -30,9 +30,5 @@ Please and Thank You! -Azresash
 </p>
 
   <p align="center">
-  <img width="400" height="500" src="https://64.media.tumblr.com/66a9ecdde60aed42f01823159aa5225c/39b15995fcab1fe9-56/s250x400/3fe32a1601419d6fc5312541ee45fc3f768b97e3.pnj">
+  <img width="400" height="500" src="https://i.pinimg.com/736x/f0/2a/70/f02a70c87e5c111ccca65046d6f05cc2.jpg">
 </p>
-
-  <p align="center">
-Pfp creds - refresko on twitter . graphics cred - fleshprisonz on tumblr
-  </p>
