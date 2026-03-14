@@ -3,7 +3,7 @@ Salutations!
   </p>
 
   <p align="center">
-I am Rot / Crush! This is my spam follow account.
+I am Rot / Wemmbu This is my spam follow account.
   </p>
   
   <p align="center">
