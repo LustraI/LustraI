@@ -15,7 +15,7 @@ Inform me on my strawpage on my main github with the github username so i know W
   </p>
 
   <p align="center">
-Please and Thank You! -Azresash
+Please and Thank You! -Sketch
   </p>
 
   <p align="center">
@@ -23,7 +23,7 @@ Please and Thank You! -Azresash
  </p> 
 
   <p align="center">
-  <a href= "https://github.com/azresash"> Main Github </a>
+  <a href= "https://github.com/zayvorlux"> Main Github </a>
     
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-LustraI&label=Drones&color=9c763f&style=plastic&abbreviated=true&base=7800">
